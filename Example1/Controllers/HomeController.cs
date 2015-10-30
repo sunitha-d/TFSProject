@@ -15,7 +15,7 @@ namespace Example1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This is the first application....";
+            ViewBag.Message = "This is the first application......";
 
             return View();
         }
